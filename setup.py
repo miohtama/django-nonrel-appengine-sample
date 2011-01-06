@@ -1,11 +1,12 @@
 from setuptools import setup, find_packages
+ 	
 import os
-
+	 	
 version = '0.1'
-
-setup(name='my.sampleproject',
-      version=version,
-      description="Sample django-nonrel Google Appengine app as Python egg",
+ 	
+setup(name='my.sampleproject',	 	
+      version=version,	 	
+      description="Sample django-nonrel Google Appengine app as Python egg",	 	
       long_description="",
       classifiers=[
         "Programming Language :: Python",
