@@ -1,4 +1,6 @@
-application: ctst
+# I kind of run out of ideas when trying to find a free application id
+application: mikkohasballs
+
 version: 1
 runtime: python
 api_version: 1
