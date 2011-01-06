@@ -5,7 +5,7 @@ import os
 # of "djangoappengine" from this file.
 from djangoappengine.settings_base import *
 
-SECRET_KEY = '=r-$b*8hglm+858&9t043hlm6-&6-3d3vfc4((7yd0dbrakhvi'
+SECRET_KEY = 'moowashere'
 
 INSTALLED_APPS = (
 #    'django.contrib.admin',

@@ -19,4 +19,4 @@ handlers:
   expiration: '0'
 
 - url: /.*
-  script: djangoappengine/main/main.py
+  script: bootstrap.py
